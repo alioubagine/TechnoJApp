@@ -1,10 +1,5 @@
 # Hi there, I'm Ali 👋
 
-<div align="center">
-  <!-- Banner removed to avoid broken URL -->
-  <!-- You can add your own banner later -->
-</div>
-
 <br/>
 
 <table>
@@ -15,7 +10,6 @@
       </td>
     </tr>
   </thead>
-  <br /><br />
   <tbody>
     <tr>
       <td align="center">
@@ -27,12 +21,12 @@
 
 <br /><br />
 
-## 👨‍💻 About Me
+## 📘 About Me
 
 I am **Ali Oubagine**, a passionate **AI & Full-Stack Developer** from Morocco.  
 I enjoy working on **machine learning**, **data processing**, and intelligent applications.
 
-### 📌 What I Do
+### 🔧 What I Do
 - 🧠 Artificial Intelligence & Machine Learning  
 - 💻 Full-Stack Web Development  
 - 🛠 Software Engineering  
@@ -44,24 +38,21 @@ I enjoy working on **machine learning**, **data processing**, and intelligent ap
 
 ## 📊 My GitHub Stats
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&layout=compact" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alioubagine&theme=tokyonight&layout=compact" />
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=alioubagine&show_icons=true&theme=tokyonight"/>
 
 <br/><br/>
 
 ## 🏅 My Badges
-<!-- Works only if you create a Holopin account -->
-[![Holopin](https://holopin.io/api/user/board?user=YOUR_USERNAME)](https://holopin.io/@YOUR_USERNAME)
+
+[![Holopin](https://holopin.io/api/user/board?user=alioubagine)](https://holopin.io/@alioubagine)
 
 <br /><br />
 
 ## ☕ Support My Work
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/YOUR_USERNAME)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alioubagine)
 
 <br /><br />
 
