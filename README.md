@@ -1,75 +1,84 @@
-# Hi there, I'm Ali OUBAGINE 👋
+# Hi there, I'm Ali 👋
 
 <div align="center">
-  <img width="100%" src="header.png" alt="Ali Oubagine Banner" />
+  <!-- Replace with your own banner link -->
+  <img width="100%" src="https://your-banner-link-here" alt="cover" />
 </div>
 
-<br />
+<br/>
 
 <table>
   <thead>
     <tr>
       <td align="center">
-        <span><strong>Key Programming Languages & Technologies</strong></span>
+        <span><strong>Programming Languages & Tools</strong></span>
       </td>
     </tr>
   </thead>
+  <br /><br />
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,cs,py,mysql&theme=dark" alt="My Skills" />
-        </a>
+        <img width="70%" src="https://skillicons.dev/icons?i=html,css,js,jquery,php,python,cs,mysql,react,nodejs,git,github" />
       </td>
     </tr>
   </tbody>
 </table>
 
-<br />
-
-## 🧠 About me
-[cite_start]I am an **AI & Full Stack Developer** [cite: 2] [cite_start]deeply passionate about emerging technologies and **Artificial Intelligence**[cite: 4].
-
-[cite_start]My goal is to deepen my skills in **Machine Learning**, data processing, and the development of intelligent solutions[cite: 5]. [cite_start]My background in web development and software engineering has given me a **solid technical foundation** which I aim to use for research and innovation in AI[cite: 6].
-
-### 🎓 Education
-* [cite_start]**Licence Professionnelle:** Technology of Education and Pedagogical Innovation (2023-2024) [cite: 25, 26, 27]
-* [cite_start]**Technicien Spécialisé:** Computer Development (2020-2021) [cite: 28, 29, 30]
-
-<br />
-
-## 📈 My GitHub Stats
-<div align="center">
-<a href="https://github.com/your-github-username">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_title=true&theme=tokyonight&langs_count=6" alt="Top Languages" />
-</a>
 <br /><br />
-<a href="https://github.com/your-github-username">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
+
+## 👨‍💻 About Me
+
+I am **Ali Oubagine**, a passionate **AI & Full-Stack Developer** from Morocco.  
+I enjoy working on **machine learning**, **data processing**, and intelligent applications.
+
+My background in **web development**, **software engineering**, and **educational technology** gave me strong technical foundations, and I am always learning new technologies.
+
+### 📌 What I Do
+- 🧠 Artificial Intelligence & Machine Learning  
+- 💻 Full-Stack Web Development  
+- 🛠 Software Engineering  
+- 🗄 Databases (MySQL)  
+- 🌐 Frontend & Backend Development  
+- 📚 Continuous Tech Learning  
+
+<br /><br />
+
+## 📊 My GitHub Stats
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img align="center" src="https://api.githubtrends.io/user/svg/YOUR_USERNAME/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
 </a>
-</div>
 
-<br />
+<a href="https://github.com/YOUR_USERNAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF"/>
+</a>
 
-## 💼 Featured Experience
-### Application Project TARMIKT (2020-2021)
-* [cite_start]**Description:** Developed an application to manage purchase requests for the **TARMIGTE** municipality[cite: 47, 49, 50].
+<br/><br/>
 
-### Professional Internships
-* [cite_start]**Engineering Inside (Marrakech):** Internship in September 2019[cite: 52, 53].
-* [cite_start]**Institut Spécialisé de Technologie Appliquée:** Administrative Assistant Internship (Dec 2020 - Feb 2021)[cite: 43, 44, 45].
+## 🏅 My Badges
+[![Holopin board](https://holopin.io/api/user/board?user=YOUR_USERNAME)](https://holopin.io/@YOUR_USERNAME)
 
-<br />
+<br /><br />
 
-## 🌐 Connect with me:
+## ☕ Support My Work
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/YOUR_USERNAME)
+
+<br /><br />
+
+## 📬 Follow Me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ali-ouabgine-3aa7951a0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C"/>
   </a>
   <a href="mailto:alioubagine@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&color=071A2C"/>
   </a>
-  <a href="tel:0643729279" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C"/>
   </a>
 </div>
