@@ -1,8 +1,8 @@
 # Hi there, I'm Ali 👋
 
 <div align="center">
-  <!-- Replace with your own banner link -->
-  <img width="100%" src="https://your-banner-link-here" alt="cover" />
+  <!-- Banner removed to avoid broken URL -->
+  <!-- You can add your own banner later -->
 </div>
 
 <br/>
@@ -19,7 +19,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img width="70%" src="https://skillicons.dev/icons?i=html,css,js,jquery,php,python,cs,mysql,react,nodejs,git,github" />
+        <img width="70%" src="https://skillicons.dev/icons?i=html,css,js,jquery,php,python,cs,mysql,git,github" />
       </td>
     </tr>
   </tbody>
@@ -31,8 +31,6 @@
 
 I am **Ali Oubagine**, a passionate **AI & Full-Stack Developer** from Morocco.  
 I enjoy working on **machine learning**, **data processing**, and intelligent applications.
-
-My background in **web development**, **software engineering**, and **educational technology** gave me strong technical foundations, and I am always learning new technologies.
 
 ### 📌 What I Do
 - 🧠 Artificial Intelligence & Machine Learning  
@@ -47,17 +45,18 @@ My background in **web development**, **software engineering**, and **educationa
 ## 📊 My GitHub Stats
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://api.githubtrends.io/user/svg/YOUR_USERNAME/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&layout=compact" />
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 </a>
 
 <br/><br/>
 
 ## 🏅 My Badges
-[![Holopin board](https://holopin.io/api/user/board?user=YOUR_USERNAME)](https://holopin.io/@YOUR_USERNAME)
+<!-- Works only if you create a Holopin account -->
+[![Holopin](https://holopin.io/api/user/board?user=YOUR_USERNAME)](https://holopin.io/@YOUR_USERNAME)
 
 <br /><br />
 
@@ -74,11 +73,5 @@ My background in **web development**, **software engineering**, and **educationa
   </a>
   <a href="mailto:alioubagine@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&color=071A2C"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C"/>
   </a>
 </div>
